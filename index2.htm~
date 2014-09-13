@@ -1,0 +1,15 @@
+<pre style class="default prettyprint prettyprinted"><code><span class="dec">&lt;!DOCTYPE HTML&gt;</span><span class="pln">
+</span><span class="tag">&lt;html</span><span class="pln"> </span><span class="atn">lang</span><span class="pun">=</span><span class="atv">&quot;en-US&quot;</span><span class="tag">&gt;</span><span class="pln">
+    </span><span class="tag">&lt;head&gt;</span><span class="pln">
+        </span><span class="tag">&lt;meta</span><span class="pln"> </span><span class="atn">charset</span><span class="pun">=</span><span class="atv">&quot;UTF-8&quot;</span><span class="tag">&gt;</span><span class="pln">
+        </span><span class="tag">&lt;meta</span><span class="pln"> </span><span class="atn">http-equiv</span><span class="pun">=</span><span class="atv">&quot;refresh&quot;</span><span class="pln"> </span><span class="atn">content</span><span class="pun">=</span><span class="atv">&quot;1;url=http://bw-tbs.iscool.co.il/&quot;</span><span class="tag">&gt;</span><span class="pln">
+        </span><span class="tag">&lt;script</span><span class="pln"> </span><span class="atn">type</span><span class="pun">=</span><span class="atv">&quot;text/javascript&quot;</span><span class="tag">&gt;</span><span class="pln">
+            window</span><span class="pun">.</span><span class="pln">location</span><span class="pun">.</span><span class="pln">href </span><span class="pun">=</span><span class="pln"> </span><span class="str">&quot;http://bw-tbs.iscool.co.il/&quot;</span><span class="pln">
+        </span><span class="tag">&lt;/script&gt;</span><span class="pln">
+        </span><span class="tag">&lt;title&gt;</span><span class="pln">Page Redirection</span><span class="tag">&lt;/title&gt;</span><span class="pln">
+    </span><span class="tag">&lt;/head&gt;</span><span class="pln">
+    </span><span class="tag">&lt;body&gt;</span><span class="pln">
+        </span><span class="com">&lt;!-- Note: don't tell people to `click` the link, just tell them that it is a link. --&gt;</span><span class="pln">
+        If you are not redirected automatically, follow the </span><span class="tag">&lt;a</span><span class="pln"> </span><span class="atn">href</span><span class="pun">=</span><span class="atv">'http://bw-tbs.iscool.co.il/'</span><span class="tag">&gt;</span><span class="pln">link to example</span><span class="tag">&lt;/a&gt;</span><span class="pln">
+    </span><span class="tag">&lt;/body&gt;</span><span class="pln">
+</span><span class="tag">&lt;/html&gt;</span></code></pre>
